@@ -111,12 +111,6 @@ Contributions are welcome. Please open an issue describing the change or a small
 - Provide a Dockerfile or Binder config for reproducible notebooks
 - Add comments and documentation cells in notebooks that explain the math and parameter choices
 
-## License
-
-No license file is included in the repository. If you intend to publish this project, add a LICENSE (e.g., MIT or Apache-2.0).
-
+  
 ## Contact
-
 Maintainer: Vishvambar
-
-If you have questions about running the notebooks or reproducing the results, open an issue or send a PR with improvements to this README.
